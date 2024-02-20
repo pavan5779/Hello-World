@@ -1,0 +1,1 @@
+echo "Hello, I am [Your Name]. This is my first Git and GitHub assignment." > introduction.txt
