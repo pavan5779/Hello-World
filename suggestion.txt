@@ -1,0 +1,1 @@
+echo "Great start! Consider adding more details to your introduction." > suggestions.txt
